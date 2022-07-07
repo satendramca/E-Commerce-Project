@@ -1,10 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Header from './Components/Header';
+
 
 function App() {
   return (
 <>
-<h1>Hello world</h1>
+<Header/>
 </>
   );
 }
