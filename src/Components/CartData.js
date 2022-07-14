@@ -3,8 +3,7 @@ import React from 'react'
 const CartData = () => {
   return (
     <div>
-      <h1>hello world</h1>
-      <button>Click me</button>
+     <h1>CartData Components</h1>
     </div>
   )
 }
